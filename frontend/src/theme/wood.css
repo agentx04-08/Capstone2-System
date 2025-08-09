@@ -1,0 +1,8 @@
+body { background: #f8f5f1; }
+.bg-wood { background-color: #6f4e37 !important; }
+.bg-wood-light { background-color: #f2e9e4; }
+.navbar-brand img { filter: drop-shadow(0 1px 1px rgba(0,0,0,.2)); }
+.card-wood { border: 1px solid #c8b6a6; box-shadow: 0 2px 8px rgba(0,0,0,.05); }
+.btn-wood { background: #6f4e37; color: #fff; }
+.btn-wood:hover { background: #5b3f2d; color: #fff; }
+.table-wood thead th { background: #e9dccf; }
